@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo '🎉 Pipeline chal gayi bhai! SCM se pull ho gaya!'
+                echo 'started!'
             }
         }
 
